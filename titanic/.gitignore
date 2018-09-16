@@ -1,0 +1,9 @@
+# 数据文件路径
+input/*
+
+# 原始ipynb文件路径
+raw_ipynb/*
+
+.ipynb_checkpoints/
+
+*.csv
